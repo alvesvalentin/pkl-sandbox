@@ -1,0 +1,9 @@
+import "pigeon.pkl" //creates object pigeon
+
+parrot = (pigeon) {
+  name = "Great green macaw"
+  diet = "Berries"
+  taxonomy {
+    species = "Ara ambiguus"
+  }
+}
